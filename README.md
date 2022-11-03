@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **coderelvik@gmail.com**
 
-- ⚡ Fun fact **(Eat, Code, Sleep) keeps me alive, Oxygen comes after them.**
+- ⚡ Fun fact **(Eat, Code, Sleep) keeps me alive, Oxygen comes after that.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
