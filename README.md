@@ -1,5 +1,5 @@
 <h1 align="center">Hello folks, I'm Elvik Sharma</h1>
-<h3 align="center">A lazy frontend developer who finds easy ways to complete a project.</h3>
+<h3 align="center">A lazy self entitled frontend developer who finds easy ways to complete a project.</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reallyelvik&label=Profile%20views&color=0e75b6&style=flat" alt="reallyelvik" /> </p>
