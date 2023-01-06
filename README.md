@@ -4,15 +4,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reallyelvik&label=Profile%20views&color=0e75b6&style=flat" alt="reallyelvik" /> </p>
 
-- 🌱 I’m currently learning **React and Redux**
+- 🌱 I’m currently learning **Blender and After Effects**
 
 - 👯 I’m looking to collaborate on **FrontEnd Projects**
 
-- 🤝 I’m looking for help with **BackEnd and APIs**
+- 🤝 I’m looking for help with **3D Animation and Javascript**
 
 - 👨‍💻 All of my projects are available at [www.elviksharma.com.np](www.elviksharma.com.np)
 
-- 💬 Ask me about **Tech Stuff**
+- 💬 Ask me about **Html and CSS**
 
 - 📫 How to reach me **coderelvik@gmail.com**
 
